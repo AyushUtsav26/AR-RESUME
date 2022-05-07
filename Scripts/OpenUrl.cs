@@ -28,5 +28,8 @@ public class OpenUrl : MonoBehaviour
     {
         Application.OpenURL("https://drive.google.com");
     }
-
+    public void download()
+    {
+        Application.OpenURL("https://drive.google.com/uc?export=download&id=1XrwZ4-QnFQa1zNeUEyWplvKYqxETHd4T");
+    }
 }
