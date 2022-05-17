@@ -1,7 +1,8 @@
 # AR-RESUME
 Augmented Reality Created Resume
 
-#### APK DOWNLOAD LINK: https://drive.google.com/uc?export=download&id=13NMFVyLDSZudc7np3nnWbRHyPBNEbtht
+#### APK DOWNLOAD LINK: https://drive.google.com/uc?export=download&id=1Y4QabgO2GYvwz-O6qpXoFnfoBnYuwUiV
+
 
 ## Software Requirement
 
@@ -19,4 +20,4 @@ https://user-images.githubusercontent.com/90376200/165603686-73a59d9f-0e12-4188-
 
 
 
-#### Note: Here Indian 200 rupee is used as marker/target image.
+#### Note: Here Indian 20 rupee is used as marker/target image.
