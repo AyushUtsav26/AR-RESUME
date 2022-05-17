@@ -17,7 +17,10 @@ Augmented Reality Created Resume
 #### 2.App consists of three screens. The first screen from left consists of virtual buttons which are interactable.
 
 
-https://user-images.githubusercontent.com/90376200/165603686-73a59d9f-0e12-4188-ab95-0a067ae05c18.mp4
+
+https://user-images.githubusercontent.com/90376200/168891478-c2b00110-467c-4211-9359-2a3dbf3fcb05.mp4
+
+
 
 
 
