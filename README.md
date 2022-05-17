@@ -1,7 +1,8 @@
 # AR-RESUME
 Augmented Reality Created Resume
 
-#### APK DOWNLOAD LINK: https://drive.google.com/uc?export=download&id=1Y4QabgO2GYvwz-O6qpXoFnfoBnYuwUiV
+#### APK DOWNLOAD LINK: https://drive.google.com/uc?export=download&id=1-ZVwQloOwJ6AYPrz89d627GU7_gNs5Wf
+
 
 
 ## Software Requirement
